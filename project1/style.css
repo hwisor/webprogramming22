@@ -1,14 +1,8 @@
-@font-face {
-	font-family: 'Poppins';
-	src: url("Poppins-Regular.ttf") format("TrueType");
-	font-weight: normal;
-	font-style: normal;
-}
 
-.coolclass1 {
-		background-color: black;
-		padding: 20px;
-		margin:  20px;
-		color: whitesmoke;
-		font-family: Poppins, sans-serif;
+
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Pirata One', sans-serif;
+  font-size: 60px;
 }
