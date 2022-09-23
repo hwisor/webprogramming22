@@ -46,13 +46,13 @@ body {
 }
 
 .image-container {
-  display: flex;
+  display: grid;
+  grid-template-columns: .5;
   flex-wrap: nowrap;
   align-items: flex-start;
 }
 
 .image-container > div {
-  width: 1000px;
   margin: 20px;
   background-color: blue;
 
