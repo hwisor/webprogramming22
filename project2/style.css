@@ -48,7 +48,7 @@ body {
 
 .image-container {
   display: grid;
-  grid-template-columns: .5;
+  grid-template-columns: .5fr, 1fr;
   flex-wrap: nowrap;
   align-items: flex-start;
 }
